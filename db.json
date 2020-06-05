@@ -2,7 +2,13 @@
   "products": [
     {
       "id": 1,
-      "title": "Product 1"
+      "name": "Producto 1"
+      "price": 3499.99
+    },
+    {
+      "id": 2,
+      "name": "Producto 2"
+      "price": 5499.99
     }
   ],
   "posts": [
