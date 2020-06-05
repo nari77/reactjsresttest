@@ -3,12 +3,22 @@
     {
       "id": 1,
       "name": "Producto 1",
-      "price": 3499.99
+      "sku": 'AN83-JJKSOW-99001',
+      "price": 3499.99,
+      "sold": 45,
+      "description": "This is the description for a product",
+      "stock": 3,
+      "images": []
     },
     {
       "id": 2,
       "name": "Producto 2",
-      "price": 5499.99
+      "sku": 'AN83-JJKSOW-93032',
+      "price": 5499.99,
+      "sold": 12,
+      "description": "This is the description for another product",
+      "stock": 89,
+      "images": []
     }
   ],
   "posts": [
