@@ -6,7 +6,7 @@
       "sku": "AN83-JJKSOW-99001",
       "price": 3499.99,
       "sold": 45,
-      "description": "This is the description for a product",
+      "description": "Esta es la descripción del primer producto. No mucho mas para decir, quizas debería ser mas extensa.",
       "stock": 3,
       "images": []
     },
@@ -16,58 +16,29 @@
       "sku": "AN83-JJKSOW-93032",
       "price": 5499.99,
       "sold": 12,
-      "description": "This is the description for another product",
+      "description": "Esta es la descripción del seundo producto. No mucho mas para decir, quizas debería ser mas extensa.",
       "stock": 89,
       "images": []
     },
     {
       "id": 3,
       "name": "Producto 2",
-      "sku": "AN83-JJKSOW-93032",
-      "price": 5499.99,
-      "sold": 12,
-      "description": "This is the description for another product",
-      "stock": 89,
+      "sku": "AN83-JJKSOW-45220",
+      "price": 89299.99,
+      "sold": 3,
+      "description": "Esta es la descripción del tercer producto. No mucho mas para decir, quizas debería ser mas extensa.",
+      "stock": 8,
       "images": []
     },
     {
       "id": 4,
       "name": "Producto 2",
-      "sku": "AN83-JJKSOW-93032",
-      "price": 5499.99,
-      "sold": 12,
-      "description": "This is the description for another product",
-      "stock": 89,
+      "sku": "AI97-NNKSOW-85000",
+      "price": 15000.00,
+      "sold": 3,
+      "description": "Esta es la descripción del cuarto producto. No mucho mas para decir, quizas debería ser mas extensa.",
+      "stock": 38,
       "images": []
     }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
