@@ -19,6 +19,26 @@
       "description": "This is the description for another product",
       "stock": 89,
       "images": []
+    },
+    {
+      "id": 3,
+      "name": "Producto 2",
+      "sku": "AN83-JJKSOW-93032",
+      "price": 5499.99,
+      "sold": 12,
+      "description": "This is the description for another product",
+      "stock": 89,
+      "images": []
+    },
+    {
+      "id": 4,
+      "name": "Producto 2",
+      "sku": "AN83-JJKSOW-93032",
+      "price": 5499.99,
+      "sold": 12,
+      "description": "This is the description for another product",
+      "stock": 89,
+      "images": []
     }
   ],
   "posts": [
